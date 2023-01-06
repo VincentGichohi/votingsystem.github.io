@@ -37,7 +37,7 @@
   <h3 align="center">ONLINE VOTING SYSTEM</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An online voting system application that helps organizations and institutions in conducting voting systems digitally.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
