@@ -106,7 +106,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
+* [![Pillow][Pillow.com]][Pillow-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![Python][Python.com]][Python-url]
 * [![Django][Django.com]][Django-url]
@@ -270,4 +270,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [Python-url]: https://www.python.org/
 [Django.com]: https://img.shields.io/badge/Django-django-orange
 [Django-url]: https://www.djangoproject.com/
-
+[Pillow-url]: https://pillow.readthedocs.io/en/stable/index.html
+[Pillow.com]: https://img.shields.io/badge/Pillow-pillow-orange
