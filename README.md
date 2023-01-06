@@ -131,16 +131,16 @@ You can install python using the following command
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+Once you have installed python, proceed with the following:
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+[//]: # (1. Get a free API Key at [https://example.com]&#40;https://example.com&#41;)
+1. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-3. Install NPM packages
+2. Install dependencies and frameworks required for the project which are in the requirements.txt file using the following command
    ```sh
-   npm install
+   pip install -r requirements.txt
    ```
 4. Enter your API in `config.js`
    ```js
