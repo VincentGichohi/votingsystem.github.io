@@ -122,7 +122,7 @@ This is a project hosted in production. To be able to use it locally, use the fo
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Have a machine that can handle the code to enable it to run effectively. 
 * npm
   ```sh
   npm install npm@latest -g
