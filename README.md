@@ -103,8 +103,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 [//]: # (* [![Next][Next.js]][Next-url])
 
-[//]: # (* [![React][React.js]][React-url])
 * [![Python][Python.com]][Python-url]
+* * [![Javascript][Javascript.com]][Javascript-url]
 * [![Django][Django.com]][Django-url]
 * [![Psycopg][Psycopg.com]][Psycopg-url]
 * [![Django_renderpdf][Django_renderpdf.com][Django_renderpdf-url]
@@ -122,7 +122,7 @@ This is a project hosted in production. To be able to use it locally, use the fo
 
 ### Prerequisites
 
-Have a machine that can handle the code to enable it to run effectively. 
+Have a machine that can handle the code to enable it to run effectively. Make sure you have installed python in your machine as it is the language of choice.
 * npm
   ```sh
   npm install npm@latest -g
@@ -277,3 +277,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [Django_renderpdf-url]: https://django-renderpdf.readthedocs.io/en/latest/
 [Psycopg-url]: https://www.psycopg.org/docs/install.html
 [Psycopg.com]: https://img.shields.io/badge/Psycopg-psycopg-yellowgreen
+[Javascript.com]: https://img.shields.io/badge/Javascript-javascript-red
+[Javascript-url]: https://www.javascript.com/
