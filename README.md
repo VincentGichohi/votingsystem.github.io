@@ -274,3 +274,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [Pillow.com]: https://img.shields.io/badge/Pillow-pillow-orange
 [Weasyprint.com]:https://img.shields.io/badge/Weasyprint-weasyprint-green
 [Weasyprint-url]: https://weasyprint.org/
+[Django-renderpdf.com]:https://img.shields.io/badge/Django--renderpdf-renderpdf-yellow
+[Django-renderpdf-url]: https://django-renderpdf.readthedocs.io/en/latest/
+
