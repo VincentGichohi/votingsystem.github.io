@@ -104,7 +104,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
+* [![Django-renderpdf][Django-renderpdf.com][Django-renderpdf-url]
 * [![Weasyprint][Weasyprint.com]][Weasyprint-url]
 * [![Pillow][Pillow.com]][Pillow-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
