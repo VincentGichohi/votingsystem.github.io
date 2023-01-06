@@ -85,8 +85,8 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
+Online Voting System, is a project that helps in providing a digital and online platform where schools, institutions can use to hold elections where votes are counted automatically using the system, number
+of voters are shown on a visual dashboard with the total number of positions, number of candidates, total votes and votes counter showing on the dashboard.
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
 * You shouldn't be doing the same tasks over and over like creating a README from scratch
