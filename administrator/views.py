@@ -223,7 +223,7 @@ def viewPositions(request):
             messages.success(request, "New Position Created")
         else:
             messages.error(request, "Form errors")
-    return render(request, "admin/positions.html", context)
+    return render(request, "administrator/admin/positions.html", context)
 
 
 def updatePosition(request):
@@ -267,7 +267,7 @@ def viewCandidates(request):
             messages.success(request, "New Candidate Created")
         else:
             messages.error(request, "Form errors")
-    return render(request, "admin/candidates.html", context)
+    return render(request, "administrator/admin/candidates.html", context)
 
 
 def updateCandidate(request):
