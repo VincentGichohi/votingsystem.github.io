@@ -321,7 +321,7 @@ def ballot_position(request):
     context = {
         'page_title': "Ballot Position"
     }
-    return render(request, "admin/ballot_position.html", context)
+    return render(request, "administrator/admin/ballot_position.html", context)
 
 
 def update_ballot_position(request, position_id, up_or_down):
