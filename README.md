@@ -123,9 +123,10 @@ This is a project hosted in production. To be able to use it locally, use the fo
 ### Prerequisites
 
 Have a machine that can handle the code to enable it to run effectively. Make sure you have installed python in your machine as it is the language of choice.
+You can install python using the following command
 * npm
   ```sh
-  npm install npm@latest -g
+  sudo apt install python3  # the latest version of python
   ```
 
 ### Installation
