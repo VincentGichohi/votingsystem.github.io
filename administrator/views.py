@@ -143,7 +143,7 @@ def voters(request):
             messages.success(request, "New voter created")
         else:
             messages.error(request, "Form validation failed")
-    return render(request, "admin/voters.html", context)
+    return render(request, "administrator/admin/voters.html", context)
 
 
 def view_voter_by_id(request):
