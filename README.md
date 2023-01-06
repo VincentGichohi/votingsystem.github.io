@@ -111,7 +111,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Weasyprint][Weasyprint.com]][Weasyprint-url]
 * [![Pillow][Pillow.com]][Pillow-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -119,8 +118,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This is a project hosted in production. To be able to use it locally, use the following steps.
 
 ### Prerequisites
 
