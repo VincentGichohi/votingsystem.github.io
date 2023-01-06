@@ -106,7 +106,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 [//]: # (* [![React][React.js]][React-url])
 * [![Python][Python.com]][Python-url]
 * [![Django][Django.com]][Django-url]
-* [![Psycopg][Psycopg.js]][Psycopg-url]
+* [![Psycopg][Psycopg.com]][Psycopg-url]
 * [![Django-renderpdf][Django-renderpdf.com][Django-renderpdf-url]
 * [![Weasyprint][Weasyprint.com]][Weasyprint-url]
 * [![Pillow][Pillow.com]][Pillow-url]
