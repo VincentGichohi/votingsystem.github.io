@@ -138,13 +138,13 @@ Once you have installed python, proceed with the following:
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-2. Install dependencies and frameworks required for the project which are in the requirements.txt file using the following command
+2. Navigate to the root folder of the project (with the manage.py file).
+3. Install dependencies and frameworks required for the project which are in the requirements.txt file using the following command
    ```sh
    pip install -r requirements.txt
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+4. Run the following command to activate the local server
+   ```python manage.py runserver
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
