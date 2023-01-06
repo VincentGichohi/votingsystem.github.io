@@ -101,15 +101,16 @@ Here's why:
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
+[//]: # (* [![Next][Next.js]][Next-url])
+
+[//]: # (* [![React][React.js]][React-url])
+* [![Python][Python.com]][Python-url]
+* [![Django][Django.com]][Django-url]
+* [![Psycopg][Psycopg.js]][Psycopg-url]
 * [![Django-renderpdf][Django-renderpdf.com][Django-renderpdf-url]
 * [![Weasyprint][Weasyprint.com]][Weasyprint-url]
 * [![Pillow][Pillow.com]][Pillow-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![Python][Python.com]][Python-url]
-* [![Django][Django.com]][Django-url]
 * 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -276,4 +277,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [Weasyprint-url]: https://weasyprint.org/
 [Django-renderpdf.com]:https://img.shields.io/badge/Django--renderpdf-renderpdf-yellow
 [Django-renderpdf-url]: https://django-renderpdf.readthedocs.io/en/latest/
-
+[Psycopg-url]: https://www.psycopg.org/docs/install.html
+[Psycopg.com]: https://img.shields.io/badge/Psycopg-psycopg-yellowgreen
