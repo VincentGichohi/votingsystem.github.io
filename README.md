@@ -107,7 +107,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Python][Python.com]][Python-url]
 * [![Django][Django.com]][Django-url]
 * [![Psycopg][Psycopg.com]][Psycopg-url]
-* [![Django-renderpdf][Django-renderpdf.com][Django-renderpdf-url]
+* [![Django_renderpdf][Django_renderpdf.com][Django_renderpdf-url]
 * [![Weasyprint][Weasyprint.com]][Weasyprint-url]
 * [![Pillow][Pillow.com]][Pillow-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
@@ -275,7 +275,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [Pillow.com]: https://img.shields.io/badge/Pillow-pillow-orange
 [Weasyprint.com]:https://img.shields.io/badge/Weasyprint-weasyprint-green
 [Weasyprint-url]: https://weasyprint.org/
-[Django-renderpdf.com]:https://img.shields.io/badge/Django-renderpdf-renderpdf-yellow
-[Django-renderpdf-url]: https://django-renderpdf.readthedocs.io/en/latest/
+[Django_renderpdf.com]:https://img.shields.io/badge/Django--renderpdf-renderpdf-yellow
+[Django_renderpdf-url]: https://django-renderpdf.readthedocs.io/en/latest/
 [Psycopg-url]: https://www.psycopg.org/docs/install.html
 [Psycopg.com]: https://img.shields.io/badge/Psycopg-psycopg-yellowgreen
