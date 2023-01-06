@@ -126,7 +126,7 @@ Have a machine that can handle the code to enable it to run effectively. Make su
 You can install python using the following command
 * npm
   ```sh
-  sudo apt install python3  # the latest version of python
+  sudo apt install python3 
   ```
 
 ### Installation
