@@ -144,7 +144,8 @@ Once you have installed python, proceed with the following:
    pip install -r requirements.txt
    ```
 4. Run the following command to activate the local server
-   ```python manage.py runserver
+   ```sh
+   python manage.py runserver
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
