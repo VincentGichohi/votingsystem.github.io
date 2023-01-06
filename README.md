@@ -272,5 +272,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [Django-url]: https://www.djangoproject.com/
 [Pillow-url]: https://pillow.readthedocs.io/en/stable/index.html
 [Pillow.com]: https://img.shields.io/badge/Pillow-pillow-orange
-[Weasyprint.com]:https://weasyprint.org/
-[Weasyprint-url]: https://img.shields.io/badge/Weasyprint-weasyprint-green
+[Weasyprint.com]:https://img.shields.io/badge/Weasyprint-weasyprint-green
+[Weasyprint-url]: https://weasyprint.org/
