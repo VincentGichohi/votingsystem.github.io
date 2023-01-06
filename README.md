@@ -218,18 +218,28 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+[//]: # (## Acknowledgments)
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+[//]: # ()
+[//]: # (Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!)
+
+[//]: # ()
+[//]: # (* [Choose an Open Source License]&#40;https://choosealicense.com&#41;)
+
+[//]: # (* [GitHub Emoji Cheat Sheet]&#40;https://www.webpagefx.com/tools/emoji-cheat-sheet&#41;)
+
+[//]: # (* [Malven's Flexbox Cheatsheet]&#40;https://flexbox.malven.co/&#41;)
+
+[//]: # (* [Malven's Grid Cheatsheet]&#40;https://grid.malven.co/&#41;)
+
+[//]: # (* [Img Shields]&#40;https://shields.io&#41;)
+
+[//]: # (* [GitHub Pages]&#40;https://pages.github.com&#41;)
+
+[//]: # (* [Font Awesome]&#40;https://fontawesome.com&#41;)
+
+[//]: # (* [React Icons]&#40;https://react-icons.github.io/react-icons/search&#41;)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
