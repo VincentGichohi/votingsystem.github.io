@@ -88,9 +88,10 @@
 Online Voting System, is a project that helps in providing a digital and online platform where schools, institutions can use to hold elections where votes are counted automatically using the system, number
 of voters are shown on a visual dashboard with the total number of positions, number of candidates, total votes and votes counter showing on the dashboard.
 Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+* It helps eliminate the time usually spent in conducting voting processes manually.
+* It increases transparency to the voters and the candidates.
+* Enables the respective parties to see data in real time.
+* Helps in record keeping as data can be retrieved and analyzed.
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
