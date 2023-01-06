@@ -104,7 +104,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 [//]: # (* [![Next][Next.js]][Next-url])
 
 * [![Python][Python.com]][Python-url]
-* * [![Javascript][Javascript.com]][Javascript-url]
+* [![Javascript][Javascript.com]][Javascript-url]
 * [![Django][Django.com]][Django-url]
 * [![Psycopg][Psycopg.com]][Psycopg-url]
 * [![Django_renderpdf][Django_renderpdf.com][Django_renderpdf-url]
